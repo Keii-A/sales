@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lead001",
+    "name": "Diana",
+    "email": "diana@example.com",
+    "interested_in": "Saya mencari laptop yang cocok untuk mengedit video dan desain UI/UX."
+  },
+  {
+    "id": "lead002",
+    "name": "Rudi",
+    "email": "rudi@example.com",
+    "interested_in": "Butuh PC untuk main game berat seperti GTA dan Cyberpunk."
+  },
+  {
+    "id": "lead003",
+    "name": "Eka",
+    "email": "eka@example.com",
+    "interested_in": "Laptop yang bisa dipakai kerja dari rumah, cukup yang ringan dan tahan lama."
+  }
+]

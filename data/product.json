@@ -1,0 +1,20 @@
+[
+  {
+    "id": "prod001",
+    "name": "Laptop Grafis Pro X",
+    "category": "Elektronik",
+    "description": "Laptop untuk desain grafis dengan prosesor i7, RAM 16GB, GPU RTX 3060 dan layar 15 inci high-definition."
+  },
+  {
+    "id": "prod002",
+    "name": "Laptop Kantor Ekonomis",
+    "category": "Elektronik",
+    "description": "Laptop ringan untuk penggunaan kantor sehari-hari, prosesor i3, RAM 8GB, SSD 256GB."
+  },
+  {
+    "id": "prod003",
+    "name": "PC Gaming Ultimate",
+    "category": "Elektronik",
+    "description": "PC desktop untuk gaming dengan GPU RTX 4080, RAM 32GB, dan liquid cooling."
+  }
+]
